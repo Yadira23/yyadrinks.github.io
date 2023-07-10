@@ -1,0 +1,44 @@
+.bg-gradient-purple {
+    background: linear-gradient(to right, #8e44ad, #c0392b);
+  }
+
+  .btn-purple {
+    background-color: #8e44ad;
+    border-color: #8e44ad;
+  }
+  
+  .btn-purple:hover {
+    background-color: #9b59b6;
+    border-color: #9b59b6;
+  }
+  .text-pink {
+    color: pink;
+    font-family: "Nombre de la fuente", sans-serif;
+  }
+
+  .bg-black {
+    background-color: black;
+    color: white;
+  }
+
+  .navbar-brand .txt-primary {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .navbar-brand .txt-purple {
+    color: purple;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .highlighted {
+    box-shadow: 0 0 5px 5px yellow; 
+  }
+
+  
+
+
+
+  
